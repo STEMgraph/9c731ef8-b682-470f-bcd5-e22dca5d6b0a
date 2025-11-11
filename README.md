@@ -1,6 +1,7 @@
 <!---
 {
   "id": "9c731ef8-b682-470f-bcd5-e22dca5d6b0a",
+  "teaches": "Converting SVG Files to Raster Images on Linux",
   "depends_on": [
    "93b1742d-4a11-4390-a6c4-2818f3de569e",
    "fcef696e-079c-4d83-b611-7b378bb8ac07",
